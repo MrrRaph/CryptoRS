@@ -2,6 +2,10 @@
 name = "CryptoRS"
 version = "0.1.0"
 edition = "2021"
+authors = ["Raphael Dray <raphael.dray@proton.me>"]
+keywords = ["cryptography"]
+readme = "README.md"
+license-file = "LICENSE.md"
 
 [dependencies]
 base64 = "0.21.0"
